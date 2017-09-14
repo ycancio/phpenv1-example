@@ -6,4 +6,4 @@ $database = new Medoo\Medoo([
     'database_file' => '../storage/database.db'
 ]);
 
-//dump($database);
+dump($database);
