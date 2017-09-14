@@ -8,6 +8,11 @@
             "email": "ykiller@gmail.com"
         }
     ],
+    "autoload": {
+    "psr-4": {
+        "Guestbook\\": "public/src"
+        }
+    },
     "require": {
         "catfan/medoo": "^1.4"
     },
