@@ -1,0 +1,17 @@
+{
+    "name": "vagrant/guestbook",
+    "description": "A Guest Book App",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Yovany",
+            "email": "ykiller@gmail.com"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^1.4"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^3.3"
+    }
+}
